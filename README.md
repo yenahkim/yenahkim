@@ -1,4 +1,6 @@
 ## Hiiiii there 👋
+🌱 my name is Yenah Kim and I am a student at Gachon university
+
 
 <!--
 **yenahkim/yenahkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
